@@ -1,16 +1,13 @@
-
----
+# Practice React Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
 </div>
 
-## React
-
 React is a JavaScript library for building user interfaces. It's used by companies like Facebook, Netflix, and Airbnb to create interactive web applications. In this skill tree, you'll learn how to use React to build modern web apps with ease.
 
-|   Index | Name                                            | Level   | Project Link                                                                                         |
-|---------|-------------------------------------------------|---------|------------------------------------------------------------------------------------------------------|
+|   Index | Name                                            | Level   | Project Link                                                                                          |
+|---------|-------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------|
 |      01 | Create a Notes App Using React                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-create-a-notes-app-using-react)                  |
 |      02 | Building a React Drag-and-Drop Puzzle Game      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-react-drag-and-drop-puzzle-game)      |
 |      03 | Building a React GitHub Heatmap Contributions   | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-react-github-heatmap-contributions)   |
@@ -24,8 +21,9 @@ React is a JavaScript library for building user interfaces. It's used by compani
 |      11 | Build Interactive React Components              | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-show-and-hide)                                   |
 |      12 | Switch Between Light and Dark                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-switch-between-light-and-dark)                   |
 
-### More
+## More
 
-- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#react)
 - 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
