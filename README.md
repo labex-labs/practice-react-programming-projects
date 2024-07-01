@@ -6,8 +6,8 @@
 
 React is a JavaScript library for building user interfaces. It's used by companies like Facebook, Netflix, and Airbnb to create interactive web applications. In this skill tree, you'll learn how to use React to build modern web apps with ease.
 
-|   Index | Name                                            | Level   | Project Link                                                                                          |
-|---------|-------------------------------------------------|---------|-------------------------------------------------------------------------------------------------------|
+|   Index | Name                                            | Level   | Project Link                                                                                         |
+|---------|-------------------------------------------------|---------|------------------------------------------------------------------------------------------------------|
 |      01 | Create a Notes App Using React                  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-create-a-notes-app-using-react)                  |
 |      02 | Building a React Drag-and-Drop Puzzle Game      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-react-drag-and-drop-puzzle-game)      |
 |      03 | Building a React GitHub Heatmap Contributions   | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-react-github-heatmap-contributions)   |
