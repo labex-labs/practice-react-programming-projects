@@ -23,7 +23,8 @@ React is a well - known library for crafting user interfaces. This Skill Tree of
 |      07 | [React Colour Filter Application](https://labex.io/en/courses/project-colour-filter)                                                   | ★★☆          | [🚀 Start Lab](https://labex.io/en/courses/project-colour-filter)                                   |
 |      08 | [Implementing React Navigation Features](https://labex.io/en/courses/project-navigation-features)                                      | ★★☆          | [🚀 Start Lab](https://labex.io/en/courses/project-navigation-features)                             |
 |      09 | [Create Responsive Business Card with React](https://labex.io/en/courses/project-personal-card-generator)                              | ★★☆          | [🚀 Start Lab](https://labex.io/en/courses/project-personal-card-generator)                         |
-|      10 | [Switch Between Light and Dark](https://labex.io/en/courses/project-switch-between-light-and-dark)                                     | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-switch-between-light-and-dark)                   |
+|      10 | [Build Interactive React Components](https://labex.io/en/courses/project-show-and-hide)                                                | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-show-and-hide)                                   |
+|      11 | [Switch Between Light and Dark](https://labex.io/en/courses/project-switch-between-light-and-dark)                                     | ★☆☆          | [🚀 Start Lab](https://labex.io/en/courses/project-switch-between-light-and-dark)                   |
 
 ## More
 
