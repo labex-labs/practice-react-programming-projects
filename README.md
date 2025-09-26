@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
 </div>
 
-React is a well - known library for crafting user interfaces. This Skill Tree offers a systematic way to learn React. Tailored for web development novices, it provides a structured guide to grasp components, state management, and hooks. Hands - on, non - video courses and coding exercises in an interactive frontend playground help you develop practical skills in building modern, responsive web applications with React.
+Learn React, a popular library for building user interfaces, with this structured learning path designed for beginners. These comprehensive React courses provide a step-by-step guide to mastering components, state management, and hooks. Develop practical skills by completing hands-on, non-video coding exercises in an interactive frontend playground to build modern, responsive web applications.
 
 ## Exercises
 
