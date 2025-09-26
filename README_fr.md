@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
 </div>
 
-React est une bibliothèque bien connue pour la création d'interfaces utilisateur. Cet arbre de compétences propose une méthode systématique pour apprendre React. Conçu pour les novices en développement web, il offre un guide structuré pour comprendre les composants, la gestion d'état et les hooks. Des cours pratiques sans vidéo et des exercices de codage dans un environnement interactif vous aident à développer des compétences pratiques pour créer des applications web modernes et réactives avec React.
+Apprenez React, une bibliothèque populaire pour la création d'interfaces utilisateur, grâce à ce parcours d'apprentissage structuré conçu pour les débutants. Ces cours React complets offrent un guide étape par étape pour maîtriser les composants, la gestion d'état et les hooks. Développez des compétences pratiques en réalisant des exercices de codage interactifs, sans vidéo, dans un environnement de développement frontend pour construire des applications web modernes et réactives.
 
 ## Exercices
 
