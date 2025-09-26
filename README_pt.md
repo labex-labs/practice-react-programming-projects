@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/nUDMNpUKFvpT.png">
 </div>
 
-React é uma biblioteca amplamente conhecida para a criação de interfaces de usuário. Esta Skill Tree oferece uma maneira sistemática de aprender React. Feito sob medida para iniciantes em desenvolvimento web, ele fornece um guia estruturado para compreender componentes, gerenciamento de estado e hooks. Cursos práticos, sem vídeo, e exercícios de codificação em um playground frontend interativo ajudam você a desenvolver habilidades práticas na construção de aplicativos web modernos e responsivos com React.
+Aprenda React, uma biblioteca popular para construir interfaces de usuário, com este caminho de aprendizado estruturado e projetado para iniciantes. Estes cursos abrangentes de React fornecem um guia passo a passo para dominar componentes, gerenciamento de estado e hooks. Desenvolva habilidades práticas completando exercícios de codificação práticos e não-vídeo em um ambiente de desenvolvimento frontend interativo para construir aplicações web modernas e responsivas.
 
 ## Exercícios
 
